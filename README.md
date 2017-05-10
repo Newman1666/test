@@ -1,2 +1,2 @@
 # test
-Just a test project for learn to use git
+Just a test project to learn to use git
